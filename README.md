@@ -1,3 +1,3 @@
 # mini-portfolio
 Pequeno projeto utilizando HTML, CSS e JavaScript.
-## https://levisanches.github.io/miniportfolio_levisanches/
+## <a href="https://levisanches.github.io/miniportfolio_levisanches/" target="_blank" rel="external">mini-portfolio</a>
