@@ -1,4 +1,3 @@
-
 const abas = document.querySelectorAll(".aba");
 
 abas.forEach(aba => 
